@@ -20,3 +20,15 @@ body {
 .row2 {
   background-color: gray;
 }
+
+.profilepic {
+  height: auto;
+  max-width: 400px;
+  width: 100%;
+}
+
+section {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
